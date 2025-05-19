@@ -73,9 +73,16 @@ Dependency injection across the layers is handled cleanly via **Hilt**, using mo
   - `placesaround`: Fetches venue suggestions near current location
   - `currentlocation`: Supplies device location info
   - `favouriteplaces`: Persists user-marked favourites
+https://github.com/user-attachments/assets/db39fd3e-f0f3-458a-b8c0-8a1e3236c1bf
 
 ---
 
 ### Testing Overview
 - Automated tests are written for the main feature key components of CurrentLocationDataSource and PlacesAroundRepository
 - UI testing was done manually to confirm behavior
+
+---
+
+
+Uploading compressed_video.mp4…
+
