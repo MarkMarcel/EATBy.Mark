@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EATBy.Mark</string>
+    <string name="application_error">app has run into an error</string>
+    <string name="email_body_acra">EATBy.Mark app has run into an error. Find crash report attached</string>
+    <string name="email_header_acra">EATBy.Mark Crashed</string>
+    <string name="favourite_place_toggle_error">coudn\'t update favourites</string>
+    <string name="network_error">unable to connect to network</string>
+    <string name="online_label">online</string>
+    <string name="place_liked_icon_content_description">%1$s liked</string>
+    <string name="place_not_liked_icon_content_description">%1$s not liked</string>
+    <string name="server_error">server unable to respond due to error</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="dishes_title">dishes</string>
+    <string name="favourite_places">favourite places</string>
+    <string name="places_around">Places around</string>
+
+</resources>
